@@ -1,0 +1,2 @@
+# slack-file-mover
+SlackにアップロードされたファイルをGoogleDriveへ転送するアプリ
