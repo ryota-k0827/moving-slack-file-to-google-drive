@@ -1,5 +1,6 @@
-# SlackFileMover
+# moving-slack-file-to-google-drive
 SlackにアップロードされたファイルをGoogle Driveに転送するアプリ
+(このリポジトリはGASプロジェクト)
 
 ## 使用技術
 - GAS
